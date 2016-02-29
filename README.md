@@ -1,2 +1,2 @@
-# super-turtle
-Test repo for training purposes 
+# Super Turtle
+Test repo for training purposes. This is fun with coding/ work and learn!
